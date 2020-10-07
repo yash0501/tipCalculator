@@ -1,5 +1,3 @@
-# tipCalculator
-
 The tipCalculator is a web-based application for calculating the appropriate tip, when you are unsure of how much to give in a restaurant.
 
 ## Installation
