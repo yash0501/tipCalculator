@@ -22,6 +22,7 @@ Then you can make your changes to the code and then commit your changes as follo
 
 ```
 git commit -a -m '[your message]'
+git push origin [your branch name]
 ```
 
 You can then carry out a pull request to have your version merged into the master branch.
